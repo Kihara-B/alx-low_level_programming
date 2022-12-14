@@ -55,6 +55,3 @@ void print_times_table(int n);
 ~
 ~
 ~
-main.h[+] [unix] (02:59 01/01/1970)                                                  11,25 All
--- INSERT --
-
