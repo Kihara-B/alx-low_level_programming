@@ -1,7 +1,8 @@
 #include "main.h"
 
 /**
- * main - Converts a string to an integer.
+ * main_atoi - Converts a string to an integer.
+ * @s: The string to be converted.
  *
  * Return: Always 0.
  */
